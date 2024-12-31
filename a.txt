@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 abc
-=======
-tri code
-123
->>>>>>> refs/remotes/origin/master
